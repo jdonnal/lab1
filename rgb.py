@@ -1,7 +1,7 @@
 #!/usr/bin/python
-import pygame
 import serial
-import pygame, sys
+import pygame
+import sys
 from pygame.locals import *
 
 # Declare constants (ALL CAPS)
